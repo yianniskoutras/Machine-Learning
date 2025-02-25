@@ -36,10 +36,8 @@ The repository includes:
    git clone https://github.com/your-username/ml-assignments.git
    cd ml-assignments
 
-2. Install dependencies:
+2. Install dependencies and run Jupyter notebooks:
   ```bash
   pip install -r requirements.txt
+  jupyter notebook 
 
-3. Run Jupyter notebooks:
-  ```bash
-  jupyter notebook  
